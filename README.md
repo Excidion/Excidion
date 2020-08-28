@@ -1,7 +1,7 @@
 ### About
-- Studying **physics**
-- Currently working on **my master thesis**
+- Studying **Physics**
+- Currently working on my **Master Thesis**
 - Next up is to learn **[TensorFlow](https://github.com/tensorflow/tensorflow)** and **[Cirq](https://github.com/quantumlib/Cirq)**
 - Looking to work in **Data Science**
-- Inspired to shape the **future of mobility**
+- Inspired to shape the **Future of Mobility**
 - Talk to me about classic cars.
