@@ -1,5 +1,4 @@
 ### About
-- Studying **Physics**
-- Next up is to learn **[TensorFlow](https://github.com/tensorflow/tensorflow)**
-- Looking to work in **Data Science**
+- Theoretical physicist working in **Data Science**
+- Looking to shape to future of mobility
 - Talk to me about classic cars.
